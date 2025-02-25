@@ -18,7 +18,7 @@ Through this project, I improved my understanding of:
 ## 📄 How to View  
 You can access the project directly through **GitHub Pages**.  
 
-🔗 **[Click here to open the Registration Form](https://harllonmartins.github.io/RegistrationForm/)**  
+🔗 **[Click here to open the Registration Form](https://harllonmartins.github.io/registration-form/)**  
 
 ## 🛠️ Technologies Used  
 - **HTML** for structure  
